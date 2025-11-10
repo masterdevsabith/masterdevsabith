@@ -1,4 +1,4 @@
-is<h1 align="center">Top Skills</h1>
+<h1 align="center">Top Skills</h1>
 
 ###
 
@@ -62,7 +62,6 @@ is<h1 align="center">Top Skills</h1>
 </div>
 
 ###
-
 <!-- <img src="https://raw.githubusercontent.com/masterdevsabith/masterdevsabith/output/snake.svg" alt="Snake animation" /> -->
 
  <img src="batmanbg.jpg" alt="Snake animation" /> 
