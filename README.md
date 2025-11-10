@@ -65,7 +65,7 @@
 
 <!-- <img src="https://raw.githubusercontent.com/masterdevsabith/masterdevsabith/output/snake.svg" alt="Snake animation" /> -->
 
- <img src="me.jpg" alt="Snake animation" /> 
+ <img src="batmanbg.jpg" alt="Snake animation" /> 
  <p>Why can't you <b>FOLLOW</b> me ????????????????????</p>
 <!--https://profile-readme-generator.com/assets/pacman.svg -->
 <!-- https://profile-readme-generator.com/assets/snake.svg -->
