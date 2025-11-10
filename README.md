@@ -81,10 +81,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=masterdevsabith&radius=8&theme=tokyo-night&area=true&order=5&custom_title=Follow%20me%20before%20seeing%20my%20activity%20graph%20!!!" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=@masterdevsabith&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
