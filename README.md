@@ -1,4 +1,4 @@
-<h1 align="center">Top Skills</h1>
+is<h1 align="center">Top Skills</h1>
 
 ###
 
@@ -88,5 +88,8 @@
   <img src="https://github-profile-trophy.vercel.app?username=masterdevsabith&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=masterdevsabith&radius=8&theme=tokyo-night&area=true&order=5&custom_title=Follow%20me%20before%20seeing%20my%20activity%20graph%20!!!" height="300" alt="activity-graph graph"  />
 </div>
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=zoxilsi/zoxilsi@github)](https://gitads.dev/v1/ad-track?source=zoxilsi/zoxilsi@github)
 
 
