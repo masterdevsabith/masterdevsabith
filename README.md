@@ -88,7 +88,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=masterdevsabith&radius=8&theme=tokyo-night&area=true&order=5&custom_title=Follow%20me%20before%20seeing%20my%20activity%20graph%20!!!" height="300" alt="activity-graph graph"  />
 </div>
 
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=zoxilsi/zoxilsi@github)](https://gitads.dev/v1/ad-track?source=zoxilsi/zoxilsi@github)
+
 
 
